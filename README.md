@@ -1,2 +1,25 @@
-# Docker--Kubernetes-Proposal-and-Contract-Template-Pack
-Professional proposals, contracts, SOWs, and NDAs tailored for Docker &amp; Kubernetes businesses. Close deals faster with polished documents.
+# Docker & Kubernetes Proposal and Contract Template Pack
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/3cI4gzaDd6Akg889rKd0n3b)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/3cI4gzaDd6Akg889rKd0n3b)
+
